@@ -16,19 +16,19 @@ The problem is to reduce the cost due to unnecessary repairs. So it is required 
 --------------------------------------------------------------
 ### Tech Stack Used
 ------------------------------------------------
-Python
-FastAPI
-Machine learning algorithms
-Docker
-MongoDB
+- Python
+- FastAPI
+- Machine learning algorithms
+- Docker
+- MongoDB
 
 ### Infrastructure Required.
 ------------------------------------------------
-AWS S3
-AWS EC2
-AWS ECR
-Git Actions
-Terraform
+- AWS S3
+- AWS EC2
+- AWS ECR
+- Git Actions
+- Terraform
 
 ### How to run?
 -------------------------------
